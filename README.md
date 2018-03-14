@@ -2,10 +2,10 @@
 **Supercode Python SDK** is a wrapper around the Supercode API
 
 **Step 1:**
-- Get this supercode python sdk and treat it as part of your library where you can import.
+- Get this supercode python sdk and treat it as part of your library where you can import it.
 
 **Step 2:**
-- Sample supercode usage: **Get Trello Cards** https://git.io/vxkeN
+- Sample supercode usage: [**Get Trello Cards**](https://git.io/vxkeN)
 ```
 import supercode
 
